@@ -22,3 +22,8 @@ What is the result of merging two branches together? Why do we represent it in t
 The result of merging is a consolidated code of code and branch a/ and b/
 
 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It saves time when there are no conflicts.
+
